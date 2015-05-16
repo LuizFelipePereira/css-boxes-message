@@ -1,0 +1,38 @@
+.message-box {
+	width: 300px;
+	height: 20px;
+	border: 2px solid #000;
+	margin-bottom: 10px;
+	padding: 5px;
+	background: no-repeat left;
+    padding-left: 35px;
+}
+
+.information {
+		background-color: #BDE5F8;
+		color: #00529B;
+        border-color: #00529B;
+        background-image: url(css/images/info.png);
+        
+}
+
+.success {
+		background-color: #DFF2BF;
+		color: #4F8A10;
+        border-color: #4F8A10;
+        background-image: url(css/images/success.png);    
+}
+
+.warning {
+		background-color: #FEEFB3;
+		color: #9F6000;
+        border-color: #9F6000;
+        background-image: url(css/images/warning.png);
+}
+
+.error {
+		background-color: #FFBABA;
+		color: #D8000C;
+        border-color: #D8000C;
+        background-image: url(css/images/error.png);
+}
